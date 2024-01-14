@@ -4,7 +4,8 @@
 
 ![App Screenshots](screenshots/screenshot.png)
 
-This Flutter app provides a user interface for authentication using Firebase Authentication. The backend and Firebase integration are currently under development.
+This Flutter app provides a user interface for authentication using Firebase Authentication.
+The backend and Firebase integration are currently under development.
 
 ## Features
 
