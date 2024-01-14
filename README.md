@@ -1,8 +1,10 @@
 
+<img align="center" alt="img" width="500" src="Screenshot1.png" align="center">
+
+
 ```markdown
 # Auth App
 
-![Screenshot1](https://github.com/saim-x/FlutterAuthApp/assets/141134993/d1bf557a-6163-45c2-92db-1dc73d4ea82b)
 
 This Flutter app provides a user interface for authentication using Firebase Authentication.
 The backend and Firebase integration are currently under development.
