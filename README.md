@@ -62,8 +62,3 @@ The Firebase and backend integration for this project is currently under develop
 
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
