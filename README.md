@@ -2,7 +2,7 @@
 ```markdown
 # Auth App
 
-![App Screenshots](screenshots/screenshot.png)
+![App Screenshot](Screenshot1.png)
 
 This Flutter app provides a user interface for authentication using Firebase Authentication.
 The backend and Firebase integration are currently under development.
