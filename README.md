@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 - Clone this repository:
 
   ```bash
-https://github.com/saim-x/FlutterAuthApp.git
+  https://github.com/saim-x/FlutterAuthApp.git
   ```
 
 ### Installation
