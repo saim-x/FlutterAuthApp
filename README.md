@@ -24,7 +24,6 @@ To get started with this project, follow these steps:
 - Clone this repository:
 
   ```bash
-  git clone https://github.com/yourusername/auth_app.git
   ```
 
 ### Installation
@@ -67,7 +66,3 @@ Contributions are welcome! If you have suggestions, bug reports, or feature requ
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
-Replace the placeholder `https://github.com/yourusername/auth_app.git` with the actual URL of your GitHub repository.
-
-Additionally, you can add more sections to the README as your project progresses, such as "Firebase Configuration" or "Backend Integration," once those parts are completed. Update the README with detailed instructions, prerequisites, and usage information as needed.
