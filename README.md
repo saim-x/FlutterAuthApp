@@ -1,4 +1,3 @@
-Certainly! Below is a template for a README file for your Flutter app authorization project with Firebase. This README assumes that the Firebase and backend parts are not completed yet.
 
 ```markdown
 # Auth App
