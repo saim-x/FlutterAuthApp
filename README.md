@@ -1,5 +1,5 @@
 
-<img align="center" alt="img" width="500" src="Screenshot1.png" align="center">
+<img align="center" alt="img" width="300" src="Screenshot1.png">
 
 
 ```markdown
